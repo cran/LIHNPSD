@@ -19,7 +19,7 @@ Stephen Horng-Twu Lihn <stevelihn@gmail.com>
 }
 \references{
 On a Poisson Subordinated Distribution for Precise Statistical Measurement of Leptokurtic Financial Data,
-to be published on SSRN.
+SSRN 2032762, http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2032762.
 }
 \keyword{ package }
 \examples{

@@ -5,8 +5,6 @@ library(moments)
 library(BB) # spg
 library(Bolstad2)
 library(optimx)
-library(MASS) # This is a workaround for the implicit dependency from agsemisc
-library(agsemisc)
 library(Rmpfr) # Multiple Precision Float, erf, erfc are defined here !
 library(sn) # skew normal
 

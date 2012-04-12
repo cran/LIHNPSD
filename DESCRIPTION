@@ -1,13 +1,16 @@
 Package: LIHNPSD
 Type: Package
 Title: Poisson Subordinated Distribution
-Version: 0.2
-Date: 2012-04-01
-Author: Stephen Horng-Twu Lihn
+Version: 0.2.1
+Date: 2012-04-12
+Author: Stephen Horng-Twu Lihn <stevelihn@gmail.com>
 Maintainer: Stephen Horng-Twu Lihn <stevelihn@gmail.com>
-Description: Poisson Subordinated Distribution
+Description: A Poisson Subordinated Distribution to capture major
+        leptokurtic features in log-return time series of financial
+        data.
 License: GPL-2
-Depends: sn, moments, BB, Bolstad2, optimx, agsemisc, MASS, Rmpfr
-Packaged: 2012-04-01 12:40:02 UTC; slihn
+Depends: R (>= 2.14.1), sn, moments, BB, Bolstad2, optimx, Rmpfr
+URL: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2032762
+Packaged: 2012-04-13 00:31:01 UTC; slihn
 Repository: CRAN
-Date/Publication: 2012-04-01 13:19:40
+Date/Publication: 2012-04-13 05:19:27
